@@ -12,9 +12,12 @@ class Solution {
         int i=0;
         int j=length-1;
         while(i<=j){
-            int temp = row[i];
-            row[i] = 1 - row[j];
-            row[j] = 1 - temp;
+            if(row[i] == row[j]){
+                 int temp = 1-  row[i];
+                row[i] = temp;
+                row[j] = temp;
+            }
+           
             i++;
             j--;
         }
