@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshaweb09/leetcode-submissions/tree/master/0001-two-sum) |
 | [0832-flipping-an-image](https://github.com/harshaweb09/leetcode-submissions/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/harshaweb09/leetcode-submissions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshaweb09/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshaweb09/leetcode-submissions/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshaweb09/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/harshaweb09/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 ## Math
