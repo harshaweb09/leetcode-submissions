@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshaweb09/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0832-flipping-an-image](https://github.com/harshaweb09/leetcode-submissions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/harshaweb09/leetcode-submissions/tree/master/0867-transpose-matrix) |
+| [0989-add-to-array-form-of-integer](https://github.com/harshaweb09/leetcode-submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/harshaweb09/leetcode-submissions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshaweb09/leetcode-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshaweb09/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harshaweb09/leetcode-submissions/tree/master/0066-plus-one) |
+| [0989-add-to-array-form-of-integer](https://github.com/harshaweb09/leetcode-submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/harshaweb09/leetcode-submissions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshaweb09/leetcode-submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/harshaweb09/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
